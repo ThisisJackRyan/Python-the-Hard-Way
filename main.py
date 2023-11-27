@@ -1,5 +1,5 @@
 class Parent(object):
-
+    
     def altered(self):
         print("Parent Altered()")
 
